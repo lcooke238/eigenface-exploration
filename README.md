@@ -1,7 +1,7 @@
 # Eigenface Exploration: Facial Recognition in Color
 
 ## Introduction
-For our Linear Algebra Final Project, I worked with my friends Ashley Herrera, Annika Huprikar, and Alex Dyer to write a paper and prove some of the math behind the Eigenface algorithm. I then went on to adapt the algorithm to recognize people's different faces in color. This README gives a high level overview of the repository containing this project. Structure:
+For our Linear Algebra Final Project, I worked with my friends Ashley Herrera, Annika Huprikar, and Alex Dyer to write a paper and prove some of the math behind the Eigenface algorithm. I then went on to implement and adapt the algorithm to recognize people's different faces in color. This README gives a high level overview of the repository containing this project. Structure:
 
 - Code
     - ```Eigenface.ipynb```: code and documentation detailing my implementation process for the Eigenface in color algorithm.
